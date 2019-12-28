@@ -13,6 +13,12 @@ h2 a {
 	color: #489300;
 }
 
+.hover-title:hover {
+	color: white;
+	transform: translateX(50px);
+	transition: 2s;
+} 
+
 .page-header {
 	background-color: #489300;
 	margin-top: 0;
